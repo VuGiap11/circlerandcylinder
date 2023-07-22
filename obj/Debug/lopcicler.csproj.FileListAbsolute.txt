@@ -1,0 +1,15 @@
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\lopcicler.exe.config
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\lopcicler.exe
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\lopcicler.pdb
+C:\Users\tuan\Desktop\lopcicler\obj\Debug\lopcicler.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\lopcicler\obj\Debug\lopcicler.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\lopcicler\obj\Debug\lopcicler.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\lopcicler\obj\Debug\lopcicler.exe
+C:\Users\tuan\Desktop\lopcicler\obj\Debug\lopcicler.pdb
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\CloudinaryDotNet.dll
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\CloudinaryDotNet.xml
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuan\Desktop\lopcicler\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\tuan\Desktop\lopcicler\obj\Debug\lopcicler.csproj.CopyComplete
